@@ -2,17 +2,17 @@
 
 🎮 Game Developer (2020 - 2025)
 
-🌐 Web Developer
+🌐 Web Developer (2024)
 
-📊 Data Enthusiast
+📊 Data Enthusiast (2026)
 
-## Sobre Mim
+## Sobre Mim | About me
 
 Profissional de tecnologia com experiência em desenvolvimento de jogos, desenvolvimento web, design gráfico e atualmente estudando Análise de Dados com foco em SQL pela EBAC.
 
-## Projetos
+## Projetos | Projects
 
-### Jogos
+### Desenvolvimento de Jogos | Game Development
 
 - Broken Pact (Steam | Unreal Engine) - https://store.steampowered.com/app/3436870/Broken_Pact/
 - Amidst The Haze (Steam | Unreal Engine) - https://store.steampowered.com/app/2688140/Amidst_The_Haze/
@@ -21,16 +21,18 @@ Profissional de tecnologia com experiência em desenvolvimento de jogos, desenvo
 - 408 The Forbidden Room (Steam | Unity3D) - https://store.steampowered.com/app/1686690/408__The_Forbidden_Room/
 - Fear Modern House (Steam | Unity3D) - https://store.steampowered.com/app/1464350/Fear_in_The_Modern_House__CH2/
 
-### Desenvolvimento Web
+### Desenvolvimento Web | Web Development
 
-- GTA V Landing Page
-- Landing Page
-- Social Media
-- Site para estabelecimentos
+- GTA V Landing Page - https://samukagomesdv.github.io/Landing-Page-GTA-V-/
+- Clipboard landing Page - https://samukagomesdv.github.io/Clipboard-landing-page/
+- Social Media - https://samukagomesdv.github.io/Social-Link-Page/
+- Food Website - https://samukagomesdv.github.io/Pagina-Food/
+- Coffe Website - https://samukagomesdv.github.io/Pagina-Cafe/
+- 
 
-### SQL e Dados
+### SQL e Dados | SQL and Data
 
-- Estudos SQL
+- Estudos SQL 
 - Projetos de Análise de Dados
 
 ## Contato
