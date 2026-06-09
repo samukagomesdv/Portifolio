@@ -24,6 +24,8 @@ Profissional de tecnologia com experiência em desenvolvimento de jogos, desenvo
 ### Desenvolvimento Web | Web Development
 
 - GTA V Landing Page - https://samukagomesdv.github.io/Landing-Page-GTA-V-/
+- <img width="1787" height="864" alt="image" src="https://github.com/user-attachments/assets/ddef9332-bbc7-4090-815e-00db33cc6f5c" />
+
 - Clipboard landing Page - https://samukagomesdv.github.io/Clipboard-landing-page/
 - Social Link Page - https://samukagomesdv.github.io/Social-Link-Page/
 - Food Website - https://samukagomesdv.github.io/Pagina-Food/
