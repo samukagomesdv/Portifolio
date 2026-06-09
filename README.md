@@ -25,10 +25,10 @@ Profissional de tecnologia com experiência em desenvolvimento de jogos, desenvo
 
 - GTA V Landing Page - https://samukagomesdv.github.io/Landing-Page-GTA-V-/
 - Clipboard landing Page - https://samukagomesdv.github.io/Clipboard-landing-page/
-- Social Media - https://samukagomesdv.github.io/Social-Link-Page/
+- Social Link Page - https://samukagomesdv.github.io/Social-Link-Page/
 - Food Website - https://samukagomesdv.github.io/Pagina-Food/
 - Coffe Website - https://samukagomesdv.github.io/Pagina-Cafe/
-- 
+  
 
 ### SQL e Dados | SQL and Data
 
