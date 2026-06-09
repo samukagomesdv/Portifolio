@@ -14,13 +14,12 @@ Profissional de tecnologia com experiência em desenvolvimento de jogos, desenvo
 
 ### Jogos
 
-- Broken Pact (Steam)
-- Amidst The Haze (Steam)
-- Dawn Of Hell (Steam)
-- REC: Beyond The Lens (Steam)
-- Until Lights Out (Steam)
-- 408 The Forbidden Room (Steam)
-- Fear Modern House (Steam)
+- Broken Pact (Steam | Unreal Engine) - https://store.steampowered.com/app/3436870/Broken_Pact/
+- Amidst The Haze (Steam | Unreal Engine) - https://store.steampowered.com/app/2688140/Amidst_The_Haze/
+- Dawn Of Hell (Steam | Unity3D) - https://store.steampowered.com/app/2255820/Dawn_Of_Hell/
+- REC: Beyond The Lens (Steam | Unreal Engine) - https://store.steampowered.com/app/2466400/REC_Beyond_The_Lens/
+- 408 The Forbidden Room (Steam | Unity3D) - https://store.steampowered.com/app/1686690/408__The_Forbidden_Room/
+- Fear Modern House (Steam | Unity3D) - https://store.steampowered.com/app/1464350/Fear_in_The_Modern_House__CH2/
 
 ### Desenvolvimento Web
 
