@@ -1,10 +1,9 @@
 # Samuel Gomes
 
-🎮 Game Developer (2020 - 2025)
-
-🌐 Web Developer (2024)
-
-📊 Data Enthusiast (2026)
+🎮 Game Developer
+🌐 Web Developer
+📊 Data Enthusiast
+🎨 Graphic Designer
 
 ## Sobre Mim | About me
 
