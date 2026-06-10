@@ -24,17 +24,25 @@ Profissional de tecnologia com experiência em desenvolvimento de jogos, desenvo
 ### Desenvolvimento Web | Web Development
 
 - GTA V Landing Page - https://samukagomesdv.github.io/Landing-Page-GTA-V-/
-- <img width="1787" height="864" alt="image" src="https://github.com/user-attachments/assets/ddef9332-bbc7-4090-815e-00db33cc6f5c" />
+  <img width="1787" height="864" alt="image" src="https://github.com/user-attachments/assets/ddef9332-bbc7-4090-815e-00db33cc6f5c" />
 
 - Clipboard landing Page - https://samukagomesdv.github.io/Clipboard-landing-page/
+  <img width="1821" height="826" alt="image" src="https://github.com/user-attachments/assets/849eb133-76ed-479e-b2c5-da9d0bfe19e2" />
+
 - Social Link Page - https://samukagomesdv.github.io/Social-Link-Page/
+  <img width="1318" height="778" alt="image" src="https://github.com/user-attachments/assets/2b49d824-e797-428b-b451-ed68b7423230" />
+
 - Food Website - https://samukagomesdv.github.io/Pagina-Food/
+  <img width="1794" height="882" alt="image" src="https://github.com/user-attachments/assets/d0c8527a-16d9-4145-bfbb-7dbca7fb2bf7" />
+
 - Coffe Website - https://samukagomesdv.github.io/Pagina-Cafe/
-  
+  <img width="1700" height="864" alt="image" src="https://github.com/user-attachments/assets/54586f80-002e-4709-897b-d6fdac4908e1" />
+
 
 ### SQL e Dados | SQL and Data
 
-- Estudos SQL 
+- Estudos SQL
+  
 - Projetos de Análise de Dados
 
 ## Contato
